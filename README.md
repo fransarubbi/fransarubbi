@@ -44,6 +44,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/franco-sarubbi-b08aaa204/)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarubbi.fe@gmail.com)
+
+
 ---
 
 ## ⚡ Fun Fact
