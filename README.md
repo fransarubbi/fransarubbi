@@ -51,7 +51,3 @@
 ## ⚡ Fun Fact
 
 I'm passionate about both software and hardware, always looking for new challenges in both worlds!
-
----
-[![Franco's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fransarubbi&show_icons=true&width=450&theme=dark#gh-dark-mode-only)](https://github.com/fransarubbi/github-readme-stats#gh-dark-mode-only)
-[![Franco's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=fransarubbi&layout=donut&width=650&theme=dark#gh-dark-mode-only)](https://github.com/fransarubbi/github-readme-stats#gh-dark-mode-only)
