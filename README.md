@@ -12,8 +12,6 @@
 
 ## 👤 About Me
 
-- 💻 I specialize in software design and development with **C, Rust, Python, Java, and SQL**.
-- 🔬 I have experience with **VHDL** for hardware description.
 - 🐧 Linux lover and enthusiastic user.
 - 🤖 I enjoy working on projects that bridge the physical and digital worlds, from microcontrollers to data analysis.
 
@@ -24,6 +22,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C&logoSize=auto" height="40" />
   <img src="https://img.shields.io/badge/-Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000&logoSize=auto" height="40" />
+  <img src="https://img.shields.io/badge/-R-FFFFFF?style=for-the-badge&logo=r&logoColor=00599C&logoSize=auto" height="40" />
   <img src="https://img.shields.io/badge/-Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&logoSize=auto" height="40" />
   <img src="https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=ED8B00&logoSize=auto" height="40" />
   <img src="https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791&logoSize=auto" height="40" />
